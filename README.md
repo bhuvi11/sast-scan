@@ -1,5 +1,7 @@
 # Introduction
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ea0d24b5-9627-4ff3-aec2-0d8382b10a2e.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/sast-scan?orgId=560723739106)  
+
 ```bash
 ███████╗ ██████╗ █████╗ ███╗   ██╗
 ██╔════╝██╔════╝██╔══██╗████╗  ██║
